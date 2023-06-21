@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.GoogleDemo" parent="@style/Theme.Leanback" />
+</resources>
